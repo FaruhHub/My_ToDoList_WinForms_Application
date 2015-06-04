@@ -1,0 +1,70 @@
+C:\Users\Faruh\Documents\Visual Studio 2013\Projects\adodemo\TasksApplication\TasksApplication\bin\Debug\TasksApplication.exe.config
+C:\Users\Faruh\Documents\Visual Studio 2013\Projects\adodemo\TasksApplication\TasksApplication\bin\Debug\TasksApplication.exe
+C:\Users\Faruh\Documents\Visual Studio 2013\Projects\adodemo\TasksApplication\TasksApplication\bin\Debug\TasksApplication.pdb
+C:\Users\Faruh\Documents\Visual Studio 2013\Projects\adodemo\TasksApplication\TasksApplication\obj\Debug\TasksApplication.csprojResolveAssemblyReference.cache
+C:\Users\Faruh\Documents\Visual Studio 2013\Projects\adodemo\TasksApplication\TasksApplication\obj\Debug\TasksApplication.MainForm.resources
+C:\Users\Faruh\Documents\Visual Studio 2013\Projects\adodemo\TasksApplication\TasksApplication\obj\Debug\TasksApplication.Properties.Resources.resources
+C:\Users\Faruh\Documents\Visual Studio 2013\Projects\adodemo\TasksApplication\TasksApplication\obj\Debug\TasksApplication.csproj.GenerateResource.Cache
+C:\Users\Faruh\Documents\Visual Studio 2013\Projects\adodemo\TasksApplication\TasksApplication\obj\Debug\TasksApplication.exe
+C:\Users\Faruh\Documents\Visual Studio 2013\Projects\adodemo\TasksApplication\TasksApplication\obj\Debug\TasksApplication.pdb
+C:\Faruh_Binary_Studio\TasksApplication\TasksApplication\obj\Debug\TasksApplication.MainForm.resources
+C:\Faruh_Binary_Studio\TasksApplication\TasksApplication\obj\Debug\TasksApplication.Properties.Resources.resources
+C:\Faruh_Binary_Studio\TasksApplication\TasksApplication\obj\Debug\TasksApplication.csproj.GenerateResource.Cache
+C:\Faruh_Binary_Studio\TasksApplication\TasksApplication\bin\Debug\TasksApplication.exe.config
+C:\Faruh_Binary_Studio\TasksApplication\TasksApplication\bin\Debug\TasksApplication.exe
+C:\Faruh_Binary_Studio\TasksApplication\TasksApplication\bin\Debug\TasksApplication.pdb
+C:\Faruh_Binary_Studio\TasksApplication\TasksApplication\obj\Debug\TasksApplication.exe
+C:\Faruh_Binary_Studio\TasksApplication\TasksApplication\obj\Debug\TasksApplication.pdb
+C:\Faruh_Binary_Studio\TasksApplication\TasksApplication\obj\Debug\TasksApplication.csprojResolveAssemblyReference.cache
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication_3\TasksApplication\TasksApplication\bin\Debug\TasksApplication.exe.config
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.exe
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.pdb
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication_3\TasksApplication\TasksApplication\bin\Debug\TasksApplication.exe
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication_3\TasksApplication\TasksApplication\bin\Debug\TasksApplication.pdb
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.csprojResolveAssemblyReference.cache
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.MainForm.resources
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.Properties.Resources.resources
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Фарух\TasksApplication_3\TasksApplication\TasksApplication\bin\Debug\TasksApplication.exe.config
+C:\Users\user\Desktop\Фарух\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.exe
+C:\Users\user\Desktop\Фарух\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.pdb
+C:\Users\user\Desktop\Фарух\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.MainForm.resources
+C:\Users\user\Desktop\Фарух\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.Properties.Resources.resources
+C:\Users\user\Desktop\Фарух\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Фарух\TasksApplication_3\TasksApplication\TasksApplication\bin\Debug\TasksApplication.exe
+C:\Users\user\Desktop\Фарух\TasksApplication_3\TasksApplication\TasksApplication\bin\Debug\TasksApplication.pdb
+C:\Users\user\Desktop\Фарух\TasksApplication_3\TasksApplication\TasksApplication\obj\Debug\TasksApplication.csprojResolveAssemblyReference.cache
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 4\TasksApplication 4\TasksApplication\bin\Debug\TasksApplication.exe.config
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 4\TasksApplication 4\TasksApplication\bin\Debug\TasksApplication.exe
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 4\TasksApplication 4\TasksApplication\bin\Debug\TasksApplication.pdb
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.csprojResolveAssemblyReference.cache
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.MainForm.resources
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.Properties.Resources.resources
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.csproj.GenerateResource.Cache
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.exe
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.pdb
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.AddForm.resources
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\bin\Debug\TasksApplication.exe.config
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.exe
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.pdb
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\bin\Debug\TasksApplication.exe
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\bin\Debug\TasksApplication.pdb
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.AddForm.resources
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.MainForm.resources
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.Properties.Resources.resources
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.SubtaskAddForm.resources
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\TasksApplication 4\TasksApplication 4\TasksApplication\obj\Debug\TasksApplication.FormAddCategory.resources
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\bin\Debug\TasksApplication.exe.config
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\bin\Debug\TasksApplication.exe
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\bin\Debug\TasksApplication.pdb
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\obj\Debug\TasksApplication.AddForm.resources
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\obj\Debug\TasksApplication.MainForm.resources
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\obj\Debug\TasksApplication.FormAddCategory.resources
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\obj\Debug\TasksApplication.Properties.Resources.resources
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\obj\Debug\TasksApplication.SubtaskAddForm.resources
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\obj\Debug\TasksApplication.csproj.GenerateResource.Cache
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\obj\Debug\TasksApplication.exe
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\obj\Debug\TasksApplication.pdb
+C:\Users\Faruh\Documents\Файлы Mail.Ru Агента\faruh_jumabayev@mail.ru\wladimirmir64@mail.ru\TasksApplication 5\TasksApplication 5\TasksApplication\obj\Debug\TasksApplication.csprojResolveAssemblyReference.cache
